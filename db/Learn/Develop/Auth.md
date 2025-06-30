@@ -1,0 +1,6 @@
+- #Patrick_God [Videos](https://www.youtube.com/@PatrickGod/videos)
+	- [JWT Auth .NET 9](https://youtu.be/6EEltKS8AwA)
+- #CliffTech [ASP.NET Core Authentication with Identity: JWT, Refresh Tokens, Access Tokens, and More](https://youtu.be/bjqIAgABRrg)
+- #BoostMyTool [Videos](https://www.youtube.com/@BoostMyTool/videos)
+	- [Blazor Web Assembly: User Registration, Authentication and Authorization using Identity & SQL Server](https://youtu.be/uYkfk-rMmlM)
+	- [Secure ASP.NET Web API : Add Authentication and Authorization using Identity API and Access Tokens](https://youtu.be/pG8pMbcl4Ps)

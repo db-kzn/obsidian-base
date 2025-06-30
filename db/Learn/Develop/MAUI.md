@@ -1,0 +1,2 @@
+- [ ] [Fullstack .Net MAUI Balzor Hybrid Mobile](https://www.youtube.com/playlist?list=PLlgYGDJXMjDaaaBt8AGVIeaqpK3Xx5Wqs)
+- [ ] 

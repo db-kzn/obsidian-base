@@ -1,0 +1,9 @@
+{
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSizeAction": true,
+  "cssTheme": "Primary",
+  "baseFontSize": 15,
+  "accentColor": "#b46e50"
+}

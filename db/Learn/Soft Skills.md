@@ -1,0 +1,2 @@
+- [ ] [18 самых важных навыков, которыми должен владеть каждый работник](https://neiros.ru/blog/development/soft-skills-18-samykh-vazhnykh-navykov-kotorymi-dolzhen-vladet-kazhdyy-rabotnik/)
+- [ ] [Soft skills в digital: как развить в себе «человечного» специалиста](https://yagla.ru/blog/samorazvitie/soft-skills-v-digital-kak-razvit-v-sebe-chelovechnogo-specialista--2202m94955/)

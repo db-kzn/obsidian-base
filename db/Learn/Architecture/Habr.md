@@ -1,0 +1,23 @@
+#habr
+- #OTUS 
+	- [ ] [Методы архитектуры предприятия](https://habr.com/ru/companies/otus/articles/591935/)
+	- [ ] [Архитектура предприятия, TOGAF 10 и адаптивность организационной структуры](https://habr.com/ru/companies/otus/articles/756986/)
+	- [ ] [Немного о подходе Architecture Decision Records](https://habr.com/ru/companies/otus/articles/840412/)
+	
+- [ ] [Требования не меняются, это мы их недовыявили. 10 техник проверки полноты требований](https://habr.com/ru/articles/682598/)
+- [ ] [Бизнес-архитектура MUST HAVE](https://habr.com/ru/companies/vsk_insurance/articles/713668/)
+- [ ] [Тёмные боги корпоративной архитектуры](https://habr.com/ru/companies/oleg-bunin/articles/790040/)
+- [ ] [DFD **Data Flow Diagram** Диаграммы — зачем они нужны и какие бывают](https://habr.com/ru/articles/668684/)
+- [ ] [Модель OSI](https://habr.com/ru/articles/876628/)
+- [ ] [GRASP: почему настоящая архитектура начинается не с SOLID](https://habr.com/ru/articles/900140/)
+- [ ] [Как описать большую систему в нотации С4](https://habr.com/ru/companies/nspk/articles/679426/)
+- [ ] [Заметки по книге «Философия разработки ПО»](https://habr.com/ru/articles/517436/)
+- [ ] [Кризис **DDD** сообщества](https://habr.com/ru/articles/474320/)
+- [ ] [**DDD** модели вместо требований](https://habr.com/ru/companies/custis/articles/705958/)
+- [ ] [Как устроен **DDD**](https://habr.com/ru/companies/oleg-bunin/articles/551428/)
+- [ ] Как приручить **DDD** [Часть 1. Стратегическая](https://habr.com/ru/companies/oleg-bunin/articles/650927/)
+- [ ] Практическое **DDD** [Часть 1: Создание правильных основ](https://habr.com/ru/companies/otus/articles/726628/)
+- [ ] [Немного про **DDD** Реализация событий предметной области в .NET](https://habr.com/ru/articles/846796/)
+- [ ] [**DDD** чистая архитектура снизу доверху](https://habr.com/ru/companies/sberbank/articles/781612/)
+- [ ] [Когда ни туда, ни сюда, или в поисках оптимальной границы Domain слоя](https://habr.com/ru/articles/797425/)
+- [ ] 
