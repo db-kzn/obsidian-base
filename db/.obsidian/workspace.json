@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/_/Mukesh Murugan.md",
+                "file": "Market/Вакансии.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -66,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mukesh Murugan"
+              "title": "Вакансии"
             },
             "group": "f3bb443f88c162bc"
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/_/Mukesh Murugan.md",
+                "file": "Market/Вакансии.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -98,7 +98,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mukesh Murugan"
+              "title": "Вакансии"
             },
             "group": "f3bb443f88c162bc"
           }
@@ -275,34 +275,35 @@
   },
   "active": "cfba72a10a4931df",
   "lastOpenFiles": [
-    "Projects/BeToFit/Templates.md",
-    "Projects/Libraries/_.md",
-    "Learn/Big Tech/T-Bank.md",
-    "Learn/_/Mukesh Murugan.md",
-    "Projects/Libraries/CSharp.md",
-    "Projects/BeToFit/Материалы/AI.md",
-    "Projects/BeToFit/Telegram.md",
-    "Projects/BeToFit/Статьи.md",
     "Learn/Курсы.md",
-    "Learn/_",
-    "Projects/BeToFit/Материалы/_.md",
-    "Projects/Libraries/Python.md",
-    "Projects/Libraries/PluntUML.md",
-    "Learn/Soft Skills.md",
-    "Pasted image 20250629215006.png",
-    "Self/Психология.md",
-    "Learn/Architecture/_.md",
-    "Self/Заметки.md",
-    "Self/Здоровье.md",
+    "Market/Вакансии.md",
     "Learn/Материалы.md",
-    "Learn/AI.md",
-    "Learn/Develop/CSharp.md",
-    "Learn/Develop/_/Теория.md",
+    "Learn/Architecture/Шаблоны.md",
+    "Learn/Architecture/Термины.md",
+    "Learn/Design/Шаблоны.md",
+    "Learn/Design/Термины.md",
+    "Learn/Architecture/VK_Video.md",
+    "Work/OTUS/Cloud Solution Architecture/Материалы.md",
+    "Work/OTUS/Заметки.md",
+    "Work/OTUS/Cloud Solution Architecture/Notes.md",
+    "Work/OTUS/Cloud Solution Architecture/3.07.md",
+    "Learn/Linux.md",
     "Learn/Design/Habr.md",
-    "Learn/Develop/Tools.md",
+    "Learn/Design/Alexander Polomodov.md",
     "Learn/Design/System Design.md",
-    "Learn/Architecture/Habr.md",
-    "Market/_.md",
+    "Projects/Libraries/_.md",
+    "Work/OTUS/Cloud Solution Architecture/Yandex Cloud.md",
+    "Learn/Cloud/_.md",
+    "Learn/Cloud/Azure.md",
+    "Learn/Cloud/Yandex.Cloud.md",
+    "Learn/Managment.md",
+    "Learn/Cloud",
+    "Self/Психология.md",
+    "Learn/Databases.md",
+    "Learn/Big Tech/Контур.md",
+    "Learn/_/Mukesh Murugan.md",
+    "Learn/_",
+    "Pasted image 20250629215006.png",
     "Projects/BeToFit/Материалы",
     "Learn/Architecture",
     "Projects/Libraries",
@@ -312,7 +313,6 @@
     "Learn/Develop/_",
     "Learn/Develop",
     "Pasted image 20250625164825.png",
-    "Learn/Big Tech",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -1,0 +1,4 @@
+- [ ] [Техника принятия решений CATWOE](https://trainingtechnology.ru/texnika-prinyatiya-reshenij-catwoe/)
+- [ ] [Семь уровней великих игр](https://vc.ru/id661836/995354-sem-urovnei-velikih-igr-ili-spiralnaya-dinamika-kak-sozdat-silnuyu-i-bystruyu-kompaniyu)
+- [ ] [# Применение пирамиды Маслоу в маркетинге и в жизни: примеры использования](https://neiros.ru/blog/marketing/piramida-maslou-ee-aktualnost-primenenie-v-marketinge-i-v-zhizni/)
+- [ ] [Пантелеева Ольга: Коммуникации в бизнесе](https://panteleevamentor.ru/main)

@@ -1,7 +1,3 @@
-*Демо*
-- [Демо-занятия 20.03.2025](https://rutube.ru/video/private/3e99c1b35879522c54553a67da6ed99c/?p=PoI-K8zhajjlsQoDGWJenQ)
-- [Метод.прогон_Шишикин Денис_26.06.2025](https://rutube.ru/video/private/3d0c8fc85fa8336e755dd4c6bb4e9a14/?p=K4P1RdhpTxOBnaOYsOzCtQ?r=plwd)
-
 K8s
 Terraform
 Kafka

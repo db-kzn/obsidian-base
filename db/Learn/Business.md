@@ -1,2 +1,0 @@
-- [ ] [Семь уровней великих игр](https://vc.ru/id661836/995354-sem-urovnei-velikih-igr-ili-spiralnaya-dinamika-kak-sozdat-silnuyu-i-bystruyu-kompaniyu)
-- [ ] [Пантелеева Ольга: Коммуникации в бизнесе](https://panteleevamentor.ru/main)

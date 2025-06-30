@@ -4,5 +4,6 @@
 - [ ] [Что нужно знать, чтобы успешно пройти System Design Interview](https://habr.com/ru/companies/bothub/articles/812265/)
 - [ ] [Что такое System design?](https://habr.com/ru/articles/859566/)
 - [ ] [Собеседование по System Design: рассказ очевидца](https://habr.com/ru/companies/piter/articles/883962/)
+- [ ] [О чем думать на NALSD собеседовании](https://habr.com/ru/companies/google/articles/435898/)
 - [ ] 
 

@@ -1,0 +1,2 @@
+- [ ] [Центр архитектуры Azure](https://learn.microsoft.com/ru-ru/azure/architecture/)
+- [ ] #WAF [Платформа Azure с продуманной архитектурой](https://learn.microsoft.com/ru-ru/azure/well-architected/)
