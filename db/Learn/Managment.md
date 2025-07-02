@@ -2,3 +2,9 @@
 - [ ] [Семь уровней великих игр](https://vc.ru/id661836/995354-sem-urovnei-velikih-igr-ili-spiralnaya-dinamika-kak-sozdat-silnuyu-i-bystruyu-kompaniyu)
 - [ ] [# Применение пирамиды Маслоу в маркетинге и в жизни: примеры использования](https://neiros.ru/blog/marketing/piramida-maslou-ee-aktualnost-primenenie-v-marketinge-i-v-zhizni/)
 - [ ] [Пантелеева Ольга: Коммуникации в бизнесе](https://panteleevamentor.ru/main)
+- [ ] [Back to the future: как ретроспективы помогают строить будущее. На основе кейсов проектной ИТ-компании](https://habr.com/ru/companies/korus_consulting/articles/894968/)
+- [ ] [Что я узнал, проконсультировав 100 айтишников](https://habr.com/ru/articles/907104/)
+- [ ] [Командная динамика по Брюсу Такману: чему нас учит опыт подводников](https://habr.com/ru/companies/stratoplan/articles/226905/)
+- [ ] [Как перестать строить умозрительные модели и посмотреть на свою реальную команду](https://habr.com/ru/companies/netologyru/articles/755202/)
+- [ ] [Мозг программиста](https://habr.com/ru/articles/191242/)
+- [ ] 
